@@ -61,11 +61,21 @@
   </a>
 </div>
 
-## 📊 GitHub Activity  
+## 📊 GitHub Activity
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github)  
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
+<!-- GitHub Activity Graph -->
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itzhoman&theme=github-dark&bg_color=000000&hide_border=true&area=true&area_color=4CAF50&line=4CAF50&point=FFFFFF)](https://github.com/itzhoman)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+<!-- GitHub Stats -->
+<a href="https://github.com/itzhoman">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itzhoman&show_icons=true&count_private=true&theme=dark&bg_color=000000&title_color=4CAF50&icon_color=4CAF50&border_color=4CAF50" alt="GitHub Stats"/>
+</a>
 
+<!-- Top Languages -->
+<a href="https://github.com/itzhoman">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=dark&bg_color=000000&title_color=4CAF50&border_color=4CAF50" alt="Top Languages"/>
+</a>
+
+</div>
