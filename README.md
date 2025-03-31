@@ -51,13 +51,6 @@
 
 
 
-## 📊 GitHub Stats
-<div align="center">
-  </a>
-  <a href="https://github.com/itzhoman">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=dark&bg_color=000000&title_color=4CAF50" alt="Top Languages"/>
-  </a>
-</div>
 
 ## 📊 GitHub Activity  
 
