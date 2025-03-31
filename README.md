@@ -50,12 +50,14 @@
   
 
 
-
-
-## 📊 GitHub Activity  
+## 📊 GitHub Contributions  
 
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=itzhoman&theme=github)  
 
+## ⚡ GitHub Stats  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzhoman&show_icons=true&theme=dark)  
+
+## 💡 Most Used Languages  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=dark)
