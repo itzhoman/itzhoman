@@ -70,11 +70,3 @@
 
 
 
-
-
-
-
-
-
-
-![Header](https://github-readme-stats.vercel.app/api?username=itzhoman&show_icons=true&theme=dark&bg_color=000000&title_color=4CAF50&icon_color=4CAF50&hide_border=true&layout=compact)
