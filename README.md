@@ -1,6 +1,32 @@
 # Homan Hajimohamadi | Frontend Developer (React/Next.js Specialist)
 
 
+# Hey! Nice to see you. 👋
+
+const HomanHajimohamadi: Developer = {
+  name: "Homan Hajimohamadi",
+  pronouns: "He" | "His",
+  role: "Frontend Engineer",
+  location: "Tehran, Iran",
+  about: "I turn coffee into clean React components",
+  languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
+  tools: ["Git", "GitHub", "Jira", "Figma"],
+  softSkills: ["Problem-solving", "Team Collaboration", "Continuous Learning"],
+  techStack: {
+    frontend: {
+      frameworks: ["React", "Next.js"],
+      stateManagement: ["Redux Toolkit", "Zustand", "Context API"],
+      styling: ["Tailwind CSS", "CSS Modules", "Bootstrap"],
+      testing: ["Jest", "React Testing Library"]
+    },
+    backendInterest: ["Node.js", "Express", "MongoDB"],
+    deployment: ["Vercel", "Netlify"]
+  },
+  currentFocus: "Advanced React Patterns & Performance Optimization",
+  motto: "Clean code is maintainable code",
+  funFact: "I debug dreams in my sleep 💤"
+};
+
 ## 🚀 Professional Summary
 **Frontend Engineer** specializing in building high-performance web applications with React ecosystem. With **3+ years of experience**, I focus on creating pixel-perfect UIs, optimizing performance, and implementing clean architecture patterns. Passionate about mentoring junior developers and contributing to open-source projects.
 
