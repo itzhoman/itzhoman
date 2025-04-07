@@ -65,23 +65,13 @@
 
 
 
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        with:
-          github_user_name: itzhoman
-          outputs: dist/github-contribution-grid-snake.svg
-
-
-
-
-
+<!-- Dynamic Snake with customized colors -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake-dark.svg?palette=github-dark&colorA=4CAF50&colorB=000000" 
+    alt="Homan's Activity Snake" 
+    style="width: 100%; max-width: 800px;"
+  />
+</p>
 
 
