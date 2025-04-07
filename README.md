@@ -65,13 +65,11 @@
 
 
 
-<!-- Dynamic Snake with customized colors -->
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake-dark.svg?palette=github-dark&colorA=4CAF50&colorB=000000" 
-    alt="Homan's Activity Snake" 
-    style="width: 100%; max-width: 800px;"
+    src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" 
+    alt="My Contribution Snake" 
+    width="100%"
   />
 </p>
-
 
