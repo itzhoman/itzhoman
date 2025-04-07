@@ -65,11 +65,8 @@
 
 
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" 
-    alt="My Contribution Snake" 
-    width="100%"
-  />
-</p>
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/itzhoman/itzhoman/blob/output/github-contribution-grid-snake.svg)
+
 
