@@ -65,6 +65,21 @@
 
 
 
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: itzhoman
+          outputs: dist/github-contribution-grid-snake.svg
+
+
 
 
 
