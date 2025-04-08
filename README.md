@@ -65,8 +65,13 @@
 
 
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 My Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" style="max-width: 100%; box-shadow: 0 0 20px rgba(0,0,0,0.2); border-radius: 10px;" />
+  </picture>
 </p>
+
