@@ -67,6 +67,6 @@
 
 ## 🐍 Contribution Snake
 
-![snake svg](https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg)
 
 
