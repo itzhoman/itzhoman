@@ -2,20 +2,25 @@ name: Generate Snake Contribution
 
 on:
   schedule:
-    - cron: "0 0 * * *" # اجرای خودکار هر روز
-  workflow_dispatch: # اجرای دستی
+    - cron: "0 0 * * *" # اجرای روزانه در ساعت 00:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate the Snake SVG
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: itzhoman
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
