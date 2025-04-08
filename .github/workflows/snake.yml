@@ -2,28 +2,21 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
-  workflow_dispatch:
+    - cron: "0 0 * * *" # هر روز اجرا میشه
+  workflow_dispatch: # اجرا با دکمه دستی
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Generate GitHub Snake SVG
+        uses: Platane/snk@master
         with:
           github_user_name: itzhoman
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
 
-      - name: Upload animation
-        uses: actions/upload-artifact@v2
-        with:
-          name: snake
-          path: dist
-
-      - name: Push to GitHub Pages
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
