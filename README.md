@@ -101,11 +101,15 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
   <a href="https://www.linkedin.com/in/itzhoman" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="LinkedIn" width="60" style="margin: 0 20px;" />
   </a>
+<br>
+<br>
 
   <!-- GitHub -->
   <a href="https://github.com/itzhoman" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60" style="margin: 0 20px;" />
   </a>
+<br>
+<br>
 
   <!-- Gmail -->
   <a href="mailto:dev.hajimohamadi@gmail.com" target="_blank">
