@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itzhoman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌐 Official Links
 <p align="center">
@@ -75,7 +74,7 @@
   </picture>
 </p>
 
-<h2 align="center">Trophy </h2>
+<h2 align="center">Trophies </h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=itzhoman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
