@@ -5,6 +5,10 @@
 ## 🚀 Professional Summary
 **Frontend Engineer** specializing in building high-performance web applications with React ecosystem. With **3+ years of experience**, I focus on creating pixel-perfect UIs, optimizing performance, and implementing clean architecture patterns. Passionate about mentoring junior developers and contributing to open-source projects.
 
+<div align = 'center'>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
+
 ## 💻 Skills
 
 ### Frontend Technologies
