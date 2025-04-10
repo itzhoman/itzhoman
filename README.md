@@ -95,23 +95,22 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
 
 
 ## 🌐 Official Links
-<p align="center">
 
+<p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/itzhoman" target="_blank">
-    <img src="https://github.com/USERNAME/REPO_NAME/blob/main/assets/linkedin.png?raw=true" alt="LinkedIn" width="40"/>
+    <img src="https://github.com/USERNAME/REPO_NAME/blob/main/assets/linkedin.png?raw=true" alt="LinkedIn" width="60" style="margin: 0 20px;" />
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/itzhoman" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40"/>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60" style="margin: 0 20px;" />
   </a>
 
   <!-- Gmail -->
   <a href="mailto:dev.hajimohamadi@gmail.com" target="_blank">
-    <img src="https://github.com/USERNAME/REPO_NAME/blob/main/assets/gmail.png?raw=true" alt="Email" width="40"/>
+    <img src="https://github.com/USERNAME/REPO_NAME/blob/main/assets/gmail.png?raw=true" alt="Email" width="60" style="margin: 0 20px;" />
   </a>
-
 </p>
 
 
