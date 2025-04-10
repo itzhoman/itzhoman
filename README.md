@@ -25,23 +25,7 @@
 <div align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48" title="ThreeJs">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" width="48" title="Electron">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webflow.svg" width="48" title="Webflow">   
 </div>
-## 🌐 Official Links
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/itzhoman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <!-- GitHub -->
-  <a href="https://github.com/itzhoman" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  
-  <!-- Email -->
-  <a href="mailto:dev.hajimohamadi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  
+
 
 
 ## 📊 GitHub Contributions  
@@ -74,4 +58,23 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=itzhoman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+
+## 🌐 Official Links
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/itzhoman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/itzhoman" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:dev.hajimohamadi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
 
