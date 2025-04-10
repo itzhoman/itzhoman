@@ -6,15 +6,23 @@
 
 
 <div align = 'center'>
-<img src="./Hooman.png" alt="Hooman's Developer Card" width=""/>
+<img src="./Hooman.png" alt="Hooman's Developer Card" width="1000"/>
 </div>
 
 
 
+<h2 align="center">Autobiography 📖</h2>
 
+<b>
+ <p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp; 
+ I'm Hooman Hajimohamadi 👋 — a Front-end Developer 🧑‍💻 based in Tehran, Iran 🇮🇷. I specialize in bringing ideas 💡 to life with JavaScript, React, and CSS magic ✨ (TailwindCSS fan here 🌀).
 
-## Autobiography 📖
-**Frontend Engineer** specializing in building high-performance web applications with React ecosystem. With **3+ years of experience**, I focus on creating pixel-perfect UIs, optimizing performance, and implementing clean architecture patterns. Passionate about mentoring junior developers and contributing to open-source projects.
+I enjoy working with startups 🫰, solving real-world problems, and always pushing the limits of what I can imagine 🚀.
+Whether it’s building clean UIs, playing with animations, or collaborating on exciting projects, I’m all in!
+
+ </p>
+</b> 
 
 <div align = 'center'>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
@@ -38,18 +46,24 @@
 </div>
 
 
+<h2 align="center">GitHub Contributions 📊 </h2>
 
-## 📊 GitHub Contributions  
-
+<div align="center">
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=itzhoman&theme=github)  
+</div>
 
-## ⚡ GitHub Stats  
+<h2 align="center">GitHub Stats ⚡ </h2>
 
+<div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzhoman&show_icons=true&theme=dark)  
+</div>
 
-## 💡 Most Used Languages  
+<h2 align="center">Most Used Languages 💡  </h2>
 
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=dark)
+</div>
+
 
 
 
