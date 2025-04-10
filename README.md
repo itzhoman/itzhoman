@@ -94,12 +94,12 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
 </div>
 
 
-<h2 align="center"> Official Links< 🌐/h2>
+<h2 align="center"> Official Links 🌐 </h2>
 
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/itzhoman" target="_blank">
-    <img src="https://raw.githubusercontent.com/itzhoman/itzhoman/main/assets/linkedin.png" alt="LinkedIn" width="60" style="margin: 0 20px;" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="LinkedIn" width="60" style="margin: 0 20px;" />
   </a>
 
   <!-- GitHub -->
@@ -109,7 +109,7 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
 
   <!-- Gmail -->
   <a href="mailto:dev.hajimohamadi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/itzhoman/itzhoman/main/assets/gmail.png" alt="Email" width="60" style="margin: 0 20px;" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="Email" width="60" style="margin: 0 20px;" />
   </a>
 </p>
 
