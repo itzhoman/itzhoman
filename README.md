@@ -8,7 +8,7 @@
 ## 💻 Skills
 
 ### Frontend Technologies
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -16,14 +16,14 @@
 </p>
 
 ### Software Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
 </p>
 
 ### Programming Languages
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -33,7 +33,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=itzhoman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌐 Official Links
-<p align="left">
+<p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/itzhoman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -74,4 +74,9 @@
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" style="max-width: 100%; box-shadow: 0 0 20px rgba(0,0,0,0.2); border-radius: 10px;" />
   </picture>
 </p>
+
+<h2 align="center">Trophy </h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=itzhoman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
