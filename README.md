@@ -76,7 +76,7 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
 
 
 
-<h2 align="center">🐍 My Contribution Snake</h2>
+<h2 align="center"> My Contribution Snake 🐍</h2>
 
 <p align="center">
   <picture>
@@ -94,12 +94,12 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
 </div>
 
 
-## 🌐 Official Links
+<h2 align="center"> Official Links< 🌐/h2>
 
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/itzhoman" target="_blank">
-    <img src="https://github.com/USERNAME/REPO_NAME/blob/main/assets/linkedin.png?raw=true" alt="LinkedIn" width="60" style="margin: 0 20px;" />
+    <img src="https://raw.githubusercontent.com/itzhoman/itzhoman/main/assets/linkedin.png" alt="LinkedIn" width="60" style="margin: 0 20px;" />
   </a>
 
   <!-- GitHub -->
@@ -109,8 +109,9 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
 
   <!-- Gmail -->
   <a href="mailto:dev.hajimohamadi@gmail.com" target="_blank">
-    <img src="https://github.com/USERNAME/REPO_NAME/blob/main/assets/gmail.png?raw=true" alt="Email" width="60" style="margin: 0 20px;" />
+    <img src="https://raw.githubusercontent.com/itzhoman/itzhoman/main/assets/gmail.png" alt="Email" width="60" style="margin: 0 20px;" />
   </a>
 </p>
+
 
 
