@@ -79,7 +79,7 @@
 </p>
 
 <h2 align="center">Trophies </h2>
-
+<div align = 'center'>
 [![trophy](https://github-profile-trophy.vercel.app/?username=itzhoman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+</div>
 
