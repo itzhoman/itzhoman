@@ -49,19 +49,25 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
 <h2 align="center">GitHub Contributions 📊 </h2>
 
 <div align="center">
+  
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=itzhoman&theme=github)  
+
 </div>
 
 <h2 align="center">GitHub Stats ⚡ </h2>
 
 <div align="center">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzhoman&show_icons=true&theme=dark)  
+
 </div>
 
 <h2 align="center">Most Used Languages 💡  </h2>
 
 <div align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=dark)
+
 </div>
 
 
