@@ -6,7 +6,7 @@
 
 
 <div align = 'center'>
-<img src="./Hooman.png" alt="Hooman's Developer Card" width="800" />
+<img src="./Hooman.png" alt="Hooman's Developer Card" style="margin-top: 30px;" width="800" />
 </div>
 
 
