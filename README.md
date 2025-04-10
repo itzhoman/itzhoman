@@ -96,19 +96,22 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
 
 ## 🌐 Official Links
 <p align="center">
+
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/itzhoman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://github.com/USERNAME/REPO_NAME/blob/main/assets/linkedin.png?raw=true" alt="LinkedIn" width="40"/>
   </a>
-  
+
   <!-- GitHub -->
   <a href="https://github.com/itzhoman" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40"/>
   </a>
-  
-  <!-- Email -->
+
+  <!-- Gmail -->
   <a href="mailto:dev.hajimohamadi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://github.com/USERNAME/REPO_NAME/blob/main/assets/gmail.png?raw=true" alt="Email" width="40"/>
   </a>
-  
+
+</p>
+
 
