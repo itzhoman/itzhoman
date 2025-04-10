@@ -2,9 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=4CAF50&background=000000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Hooman+Hajimohamadi;React%2FNext.js+Specialist" alt="Typing SVG" />
 </div>
 
+
+
+
 <div align = 'center'>
 <img src="./Hooman.png" alt="Hooman's Developer Card" width=""/>
 </div>
+
+
+
+
 
 ## Autobiography 📖
 **Frontend Engineer** specializing in building high-performance web applications with React ecosystem. With **3+ years of experience**, I focus on creating pixel-perfect UIs, optimizing performance, and implementing clean architecture patterns. Passionate about mentoring junior developers and contributing to open-source projects.
