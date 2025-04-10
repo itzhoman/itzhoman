@@ -3,7 +3,7 @@
 </div>
 
 <div align = 'center'>
-<img src="./Hooman.png" alt="Hooman's Developer Card" width="600"/>
+<img src="./Hooman.png" alt="Hooman's Developer Card" width=""/>
 </div>
 
 ## Autobiography 📖
