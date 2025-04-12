@@ -9,7 +9,7 @@
 
 
 <div align = 'center'>
-<img src="./Hooman_1.png" alt="Hooman's Developer Card"  width="800" />
+<img src="./Hooman.png" alt="Hooman's Developer Card"  width="800" />
 </div>
 
 
