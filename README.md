@@ -144,7 +144,6 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
   </a>
 </p>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=](https://git.io/typing-svg)
 <div align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 </div>
