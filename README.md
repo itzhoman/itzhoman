@@ -144,8 +144,7 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
   </a>
 </p>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=)](https://git.io/typing-svg)<br>
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+an+Aspiring+Python+Expert🐍;I+am+a++Cybersecurity+Researcher🔐;I+am+a+Junior+Data+Scientist📃;I+am+a+Tech+Explorer🔦)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=](https://git.io/typing-svg)
 <div align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 </div>
