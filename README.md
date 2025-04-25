@@ -35,37 +35,32 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
 
   <h3 align="center">🚀 Recent Projects</h3>
 
-  <p>
-    <a href="https://game-arena-cb1b.vercel.app/" target="_blank">
-      <img src="./Game Arena.png"  alt="Game Arena" width="100" />
-      <br />
-      🎮 Game Arena
-    </a>
-  </p>
-
-  <p>
-    <a href="https://step-wise-beta.vercel.app/" target="_blank">
-      <img src="./Step Wise.png" alt="Step Wise" width="100" />
-      <br />
-      🧠 Step Wise
-    </a>
-  </p>
-
-  <p>
-    <a href="https://velvet-shop.vercel.app/" target="_blank">
-      <img src="./Velvet.png" alt="Velvet Shop" width="100" />
-      <br />
-      👗 Velvet Shop
-    </a>
-  </p>
-
-  <p>
-    <a href="https://code-lens-seven.vercel.app/" target="_blank">
-      <img src="./Code Lens.png" alt="Code Lens" width="100" />
-      <br />
-      🔍 Code Lens
-    </a>
-  </p>
+  <table>
+    <tr>
+      <td>
+        <a href="https://game-arena-cb1b.vercel.app/" target="_blank">
+          <img src="./Game Arena.png" alt="Game Arena" width="200" />
+        </a>
+      </td>
+      <td>
+        <a href="https://step-wise-beta.vercel.app/" target="_blank">
+          <img src="./Step Wise.png" alt="Step Wise" width="200" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://velvet-shop.vercel.app/" target="_blank">
+          <img src="./Velvet.png" alt="Velvet Shop" width="200" />
+        </a>
+      </td>
+      <td>
+        <a href="https://code-lens-seven.vercel.app/" target="_blank">
+          <img src="./Code Lens.png" alt="Code Lens" width="200" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
