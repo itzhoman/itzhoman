@@ -37,7 +37,7 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
 
   <p>
     <a href="https://game-arena-cb1b.vercel.app/" target="_blank">
-      <img src="YOUR_IMAGE_URL_HERE" alt="Game Arena" width="100" />
+      <img src="./Game Arena.png"  alt="Game Arena" width="100" />
       <br />
       🎮 Game Arena
     </a>
