@@ -39,24 +39,24 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
     <tr>
       <td>
         <a href="https://game-arena-cb1b.vercel.app/" target="_blank">
-          <img src="./Game Arena.png" alt="Game Arena" width="400" />
+          <img src="./Game Arena.png" alt="Game Arena" width="600" />
         </a>
       </td>
       <td>
         <a href="https://step-wise-beta.vercel.app/" target="_blank">
-          <img src="./Step Wise.png" alt="Step Wise" width="400" />
+          <img src="./Step Wise.png" alt="Step Wise" width="600" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://velvet-shop.vercel.app/" target="_blank">
-          <img src="./Velvet.png" alt="Velvet Shop" width="400" />
+          <img src="./Velvet.png" alt="Velvet Shop" width="600" />
         </a>
       </td>
       <td>
         <a href="https://code-lens-seven.vercel.app/" target="_blank">
-          <img src="./Code Lens.png" alt="Code Lens" width="400" />
+          <img src="./Code Lens.png" alt="Code Lens" width="600" />
         </a>
       </td>
     </tr>
