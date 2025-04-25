@@ -45,7 +45,7 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
 
   <p>
     <a href="https://step-wise-beta.vercel.app/" target="_blank">
-      <img src="YOUR_IMAGE_URL_HERE" alt="Step Wise" width="100" />
+      <img src="./Step Wise.png" alt="Step Wise" width="100" />
       <br />
       🧠 Step Wise
     </a>
@@ -53,7 +53,7 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
 
   <p>
     <a href="https://velvet-shop.vercel.app/" target="_blank">
-      <img src="YOUR_IMAGE_URL_HERE" alt="Velvet Shop" width="100" />
+      <img src="./Velvet.png" alt="Velvet Shop" width="100" />
       <br />
       👗 Velvet Shop
     </a>
@@ -61,7 +61,7 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
 
   <p>
     <a href="https://code-lens-seven.vercel.app/" target="_blank">
-      <img src="YOUR_IMAGE_URL_HERE" alt="Code Lens" width="100" />
+      <img src="./Code Lens.png" alt="Code Lens" width="100" />
       <br />
       🔍 Code Lens
     </a>
