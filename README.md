@@ -31,6 +31,15 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
+<div align= 'center'>
+<h3 align="center">Recent Projects 🚀 </h3>
+- 🎮 [Game Arena](https://game-arena-cb1b.vercel.app/)
+- 🧠 [Step Wise](https://step-wise-beta.vercel.app/)
+- 👗 [Velvet Shop](https://velvet-shop.vercel.app/)
+- 🔍 [Code Lens](https://code-lens-seven.vercel.app/)
+
+</div>
+
 <h3 align="center">Skills + Tools</h3>
 
 <div align="center">
