@@ -23,22 +23,27 @@
 
 
 
-<h2 align="center">Autobiography 📖</h2>
+<h2 align="center">📖 Autobiography</h2>
 
-<b>
- <p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp; 
- I'm Hooman Hajimohamadi 👋 — a Front-end Developer 🧑‍💻 based in Tehran, Iran 🇮🇷. I specialize in bringing ideas 💡 to life with JavaScript, React, and CSS magic ✨ (TailwindCSS fan here 🌀).
+<p align="center" style="font-size: 18px; line-height: 1.6;">
+  <b>
+    Hi, I'm <span style="color: #4CAF50;">Hooman Hajimohamadi</span> 👋 — a passionate Front-end Developer 🧑‍💻 based in Tehran, Iran 🇮🇷.<br><br>
+    I specialize in bringing ideas 💡 to life with <b>JavaScript</b>, <b>React</b>, and a little bit of <b>CSS magic</b> ✨ 
+    (big <span style="color: #38BDF8;">TailwindCSS</span> fan here 🌀).<br><br>
+    I love working with startups 🫰, solving real-world problems, and pushing the boundaries 🚀.<br><br>
+    Whether it’s crafting clean UIs, adding smooth animations, or collaborating on exciting projects — I'm all in!
+  </b>
+</p>
 
-I enjoy working with startups 🫰, solving real-world problems, and always pushing the limits of what I can imagine 🚀.
-Whether it’s building clean UIs, playing with animations, or collaborating on exciting projects, I’m all in!
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
+    alt="Coder GIF" 
+    width="400" 
+    style="border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.3); margin-top: 20px;"
+  />
+</p>
 
- </p>
-</b> 
-
-<div align = 'center'>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</div>
 
 <div align="center">
 
