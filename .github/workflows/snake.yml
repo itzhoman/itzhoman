@@ -2,8 +2,8 @@ name: Generate Snake Contribution
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Every day at midnight
+  workflow_dispatch: # Manual trigger
 
 permissions:
   contents: write
@@ -22,15 +22,17 @@ jobs:
           github_user_name: itzhoman
           outputs: dist/github-contribution-grid-snake.svg
           palette: |
-            - background: "#000000" # بکگراند مشکی
-            - snake: "#FF0000" # مار قرمز
-            - dot_empty: "#000000" # نقاط خالی مشکی
-            - dot0: "#00FF00" # نقاط سبز کم
-            - dot1: "#00CC00" # نقاط سبز متوسط
-            - dot2: "#009900" # نقاط سبز تیره‌تر
-            - dot3: "#006600" # نقاط سبز خیلی تیره
+            - background: "#000000" # Black background
+            - snake: "#FF0000" # Red snake
+            - dot_empty: "#000000" # Black empty dots
+            - dot0: "#00FF00" # Light green
+            - dot1: "#00CC00" # Medium green
+            - dot2: "#009900" # Darker green
+            - dot3: "#006600" # Very dark green
+          color_snake: true # Make snake color vibrant
+          mask_snake: true # Smooth movement
 
-      - name: Push to output branch
+      - name: Push Snake SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
