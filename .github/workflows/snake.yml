@@ -2,7 +2,7 @@ name: Generate Snake Contribution
 
 on:
   schedule:
-    - cron: "0 0 * * *" # اجرای روزانه در ساعت 00:00
+    - cron: "0 0 * * *" # اجرای روزانه در نیمه‌شب
   workflow_dispatch:
 
 permissions:
@@ -21,7 +21,9 @@ jobs:
         with:
           github_user_name: itzhoman
           outputs: dist/github-contribution-grid-snake.svg
-
+          color_snake: "#FF0000" # رنگ مار (قرمز)
+          color_dots: "#000000, #00FF00, #00FF00, #00FF00, #00FF00" # بکگراند (نقطه‌های مختلف)
+          
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
