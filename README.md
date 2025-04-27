@@ -47,30 +47,30 @@
 
 <div align="center">
 
-  <h3 align="center">Recent Projects 🚀</h3>
+  <h3>🚀 Recent Projects</h3>
 
   <table>
     <tr>
       <td>
         <a href="https://game-arena-cb1b.vercel.app/" target="_blank">
-          <img src="./Game Arena.png" alt="Game Arena" width="600" />
+          <img src="./Game Arena.png" alt="Game Arena" width="500" />
         </a>
       </td>
       <td>
         <a href="https://step-wise-beta.vercel.app/" target="_blank">
-          <img src="./Step Wise.png" alt="Step Wise" width="600" />
+          <img src="./Step Wise.png" alt="Step Wise" width="500" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://velvet-shop.vercel.app/" target="_blank">
-          <img src="./Velvet.png" alt="Velvet Shop" width="600" />
+          <img src="./Velvet.png" alt="Velvet Shop" width="500" />
         </a>
       </td>
       <td>
         <a href="https://code-lens-seven.vercel.app/" target="_blank">
-          <img src="./Code Lens.png" alt="Code Lens" width="600" />
+          <img src="./Code Lens.png" alt="Code Lens" width="500" />
         </a>
       </td>
     </tr>
@@ -78,54 +78,75 @@
 
 </div>
 
+<br/>
 
-<h3 align="center">Skills + Tools</h3>
+<h3 align="center">🛠️ Skills & Tools</h3>
 
 <div align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48" title="Redux.Js">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="Javascript">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailWindCss">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="48" title="GraphQl">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="48" title="MUI">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="Sass">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48" title="Bootstrap">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" width="48" title="StyledComponents">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48" title="Adobe XD">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48" title="Vite">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="Netlify">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="48" title="Vercel">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="StackOverFlow">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" width="48" title="PHP">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Laravel-Dark.svg" width="48" title="Laravel">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PhpStorm-Light.svg" width="48" title="PhpStorm">
+
+  <!-- Skill Icons -->
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48" title="Redux"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="Javascript"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailwindCSS"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="48" title="GraphQL"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="48" title="MUI"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="Sass"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48" title="Bootstrap"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" width="48" title="Styled Components"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48" title="Adobe XD"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48" title="Vite"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="Netlify"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="48" title="Vercel"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="VSCode"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="Stack Overflow"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="48" title="PHP"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="48" title="Laravel"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PhpStorm-Light.svg" width="48" title="PhpStorm"/>
+
 </div>
 
-<h3 align="center"> Currently Learning Advanced Of</h3>
+<br/>
+
+<h3 align="center">📚 Currently Advancing</h3>
+
 <div align="center">
-  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="48" title="GraphQl">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript"> 
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" width="48" title="PHP">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Laravel-Dark.svg" width="48" title="Laravel">
+
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="48" title="GraphQL"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="Javascript"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="48" title="PHP"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="48" title="Laravel"/>
+
 </div>
 
-<h3 align="center">Plan To Learn</h3>
+<br/>
+
+<h3 align="center">🎯 Plan to Learn</h3>
+
 <div align="center">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48" title="ThreeJs">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" width="48" title="Electron">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webflow.svg" width="48" title="Webflow">   
+
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48" title="ThreeJs"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" width="48" title="Electron"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webflow.svg" width="48" title="Webflow"/>
+
 </div>
+
 
 
 <h2 align="center">📊 GitHub Contributions</h2>
