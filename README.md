@@ -147,22 +147,31 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
 
 
 
-<h2 align="center"> My Contribution Snake 🐍</h2>
+<h2 align="center">🐍 My Contribution Snake</h2>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" style="max-width: 100%; box-shadow: 0 0 20px rgba(0,0,0,0.2); border-radius: 10px;" />
+    <img 
+      alt="GitHub contribution snake" 
+      src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" 
+      style="max-width: 90%; border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" 
+    />
   </picture>
 </p>
 
-<h2 align="center">Trophies </h2>
-<div align = 'center'>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=itzhoman&theme=onedark)]
 
-</div>
+<h2 align="center">🏆 Trophies</h2>
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=itzhoman&theme=onedark&margin-w=10&margin-h=10&no-frame=true" 
+    alt="GitHub Trophies"
+    style="max-width: 100%; border-radius: 10px;" 
+  />
+</p>
+
 
 
 <h2 align="center"> Official Links 🌐 </h2>
