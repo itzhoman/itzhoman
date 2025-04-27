@@ -152,33 +152,16 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
 
 
 
+
 <h2 align="center"> My Contribution Snake 🐍</h2>
 
 <p align="center">
   <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake-dark.svg" 
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" 
-    />
-    <img 
-      alt="github-snake" 
-      src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" 
-      width="100%"
-      style="
-        max-width: 100%; 
-        box-shadow: 0 4px 25px rgba(0,0,0,0.15);
-        border-radius: 12px;
-        border: 1px solid rgba(0,0,0,0.1);
-        margin: 20px 0;
-      " 
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" style="max-width: 100%; box-shadow: 0 0 20px rgba(0,0,0,0.2); border-radius: 10px;" />
   </picture>
 </p>
-
 <!-- Optional divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="2px" />
 
