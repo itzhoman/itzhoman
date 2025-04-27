@@ -150,16 +150,13 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
 <h2 align="center">🐍 My Contribution Snake</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" />
-    <img 
-      alt="GitHub contribution snake" 
-      src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" 
-      style="max-width: 90%; border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" 
-    />
-  </picture>
+  <img 
+    src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake-dark.svg" 
+    alt="Snake animation showing my contributions" 
+    style="max-width: 100%; border-radius: 10px; box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);" 
+  />
 </p>
+
 
 
 <h2 align="center">🏆 Trophies</h2>
