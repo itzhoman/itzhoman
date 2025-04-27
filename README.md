@@ -114,21 +114,26 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
 </div>
 
 
-<h2 align="center">GitHub Contributions 📊 </h2>
+<h2 align="center">📊 GitHub Contributions</h2>
 
-<div align="center">
-  
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=itzhoman&theme=github)  
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=itzhoman&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20GitHub%20Contributions"
+    alt="GitHub Contribution Graph"
+    width="700"
+  />
+</p>
 
-</div>
+<h2 align="center">⚡ GitHub Stats</h2>
 
-<h2 align="center">GitHub Stats ⚡ </h2>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=itzhoman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats"
+    alt="GitHub Stats"
+    width="400"
+  />
+</p>
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzhoman&show_icons=true&theme=dark)  
-
-</div>
 
 <h2 align="center">💡 Most Used Languages</h2>
 
