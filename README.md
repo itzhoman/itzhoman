@@ -130,14 +130,15 @@ Whether it’s building clean UIs, playing with animations, or collaborating on 
 
 </div>
 
-<h2 align="center">Most Used Languages 💡  </h2>
+<h2 align="center">💡 Most Used Languages</h2>
 
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=dark)
-
-</div>
-
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+    width="400px"
+  />
+</p>
 
 
 
