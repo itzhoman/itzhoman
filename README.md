@@ -114,7 +114,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="48" title="PHP"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="48" title="Laravel"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PhpStorm-Light.svg" width="48" title="PhpStorm"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PhpStorm-Dark.svg" width="48" title="PhpStorm"/>
 
 </div>
 
