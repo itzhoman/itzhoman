@@ -53,31 +53,31 @@
     <tr>
       <td>
         <a href="https://game-arena-cb1b.vercel.app/" target="_blank">
-          <img src="./Game Arena.png" alt="Game Arena" style="height: 250px; width: 500px; object-fit: cover;" />
+          <img src="./Game Arena.png" alt="Game Arena" style="height: 250px; width: 500px;" />
         </a>
       </td>
       <td>
         <a href="https://step-wise-beta.vercel.app/" target="_blank">
-          <img src="./Step Wise.png" alt="Step Wise" style="height: 250px; width: 500px; object-fit: cover;" />
+          <img src="./Step Wise.png" alt="Step Wise" style="height: 250px; width: 500px;" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://velvet-shop.vercel.app/" target="_blank">
-          <img src="./Velvet.png" alt="Velvet Shop" style="height: 250px; width: 500px; object-fit: cover;" />
+          <img src="./Velvet.png" alt="Velvet Shop" style="height: 250px; width: 500px;" />
         </a>
       </td>
       <td>
         <a href="https://code-lens-seven.vercel.app/" target="_blank">
-          <img src="./Code Lens.png" alt="Code Lens" style="height: 250px; width: 500px; object-fit: cover;" />
+          <img src="./Code Lens.png" alt="Code Lens" style="height: 250px; width: 500px;" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://trading-sight-x5wx.vercel.app/" target="_blank">
-          <img src="./Trading sight.png" alt="Trading sight project" style="height: 250px; width: 500px; object-fit: cover;" />
+          <img src="./Trading sight.png" alt="Trading sight project" style="height: 250px; width: 500px;" />
         </a>
       </td>
     </tr>
