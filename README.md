@@ -74,6 +74,13 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://velvet-shop.vercel.app/" target="_blank">
+          <img src="./Trading sight.png" alt="Trading sight project" width="500" />
+        </a>
+      </td>
+    </tr>
   </table>
 
 </div>
