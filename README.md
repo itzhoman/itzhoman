@@ -48,36 +48,36 @@
 <div align="center">
 
   <h3>🚀 Recent Projects</h3>
-
-  <table>
+  
+<table>
     <tr>
       <td>
         <a href="https://game-arena-cb1b.vercel.app/" target="_blank">
-          <img src="./Game Arena.png" alt="Game Arena" width="500" />
+          <img src="./Game Arena.png" alt="Game Arena" style="height: 300px; width: auto;" />
         </a>
       </td>
       <td>
         <a href="https://step-wise-beta.vercel.app/" target="_blank">
-          <img src="./Step Wise.png" alt="Step Wise" width="500" />
+          <img src="./Step Wise.png" alt="Step Wise" style="height: 300px; width: auto;" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://velvet-shop.vercel.app/" target="_blank">
-          <img src="./Velvet.png" alt="Velvet Shop" width="500" />
+          <img src="./Velvet.png" alt="Velvet Shop" style="height: 300px; width: auto;" />
         </a>
       </td>
       <td>
         <a href="https://code-lens-seven.vercel.app/" target="_blank">
-          <img src="./Code Lens.png" alt="Code Lens" width="500" />
+          <img src="./Code Lens.png" alt="Code Lens" style="height: 300px; width: auto;" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://trading-sight-x5wx.vercel.app/" target="_blank">
-          <img src="./Trading sight.png" alt="Trading sight project" width="500" />
+          <img src="./Trading sight.png" alt="Trading sight project" style="height: 300px; width: auto;" />
         </a>
       </td>
     </tr>
