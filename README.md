@@ -5,10 +5,8 @@
     style="max-width: 100%;"
   />
 </div>
-<br>
-<br>
 
-
+<br><br>
 
 <h2 align="center">🧠 About Me</h2>
 
@@ -20,8 +18,6 @@
     style="max-width: 90%; border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);"
   />
 </p>
-
-
 
 <h2 align="center">📖 Autobiography</h2>
 
@@ -44,12 +40,9 @@
   />
 </p>
 
-
 <div align="center">
-
   <h3>🚀 Recent Projects</h3>
-  
-<table>
+  <table>
     <tr>
       <td>
         <a href="https://game-arena-cb1b.vercel.app/" target="_blank">
@@ -81,8 +74,7 @@
         </a>
       </td>
     </tr>
-</table>
-
+  </table>
 </div>
 
 <br/>
@@ -90,7 +82,6 @@
 <h3 align="center">🛠️ Skills & Tools</h3>
 
 <div align="center">
-
   <!-- Skill Icons -->
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js"/>
@@ -122,7 +113,6 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="48" title="PHP"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="48" title="Laravel"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PhpStorm-Dark.svg" width="48" title="PhpStorm"/>
-
 </div>
 
 <br/>
@@ -130,7 +120,6 @@
 <h3 align="center">📚 Currently Advancing</h3>
 
 <div align="center">
-
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="48" title="GraphQL"/>
@@ -138,7 +127,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="48" title="PHP"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="48" title="Laravel"/>
-
 </div>
 
 <br/>
@@ -146,15 +134,13 @@
 <h3 align="center">🎯 Plan to Learn</h3>
 
 <div align="center">
-
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48" title="ThreeJs"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" width="48" title="Electron"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webflow.svg" width="48" title="Webflow"/>
-
 </div>
 
-
+<br/>
 
 <h2 align="center">📊 GitHub Contributions</h2>
 
@@ -170,27 +156,23 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=itzhoman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats"
+    src="https://github-readme-stats.vercel.app/api?username=itzhoman&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
     width="400"
   />
 </p>
 
-
 <h2 align="center">💡 Most Used Languages</h2>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
     width="400px"
   />
 </p>
 
-
-
-
-<h2 align="center"> My Contribution Snake 🐍</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <picture>
@@ -204,36 +186,26 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=itzhoman&theme=onedark&no-frame=true&margin-w=15&margin-h=15" 
+    src="https://github-profile-trophy.vercel.app/?username=itzhoman&theme=darkhub&margin-w=15&margin-h=15"
     alt="GitHub Trophies"
     style="max-width: 90%; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" 
   />
 </p>
 
-
-
-
-<h2 align="center"> Official Links 🌐 </h2>
+<h2 align="center">🌐 Official Links</h2>
 
 <p align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/itzhoman" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="LinkedIn" width="60" style="margin: 0 30px;" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="60" style="margin: 0 30px;" />
   </a>
-
-  <!-- GitHub -->
   <a href="https://github.com/itzhoman" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60" style="margin: 0 30px;" />
   </a>
-
-  <!-- Gmail -->
   <a href="mailto:dev.hajimohamadi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="Email" width="60" style="margin: 0 30px;" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Email" width="60" style="margin: 0 30px;" />
   </a>
 </p>
 
 <div align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 </div>
-
-
