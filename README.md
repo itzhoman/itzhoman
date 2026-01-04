@@ -12,7 +12,7 @@
 
 <p align="center">
   <img 
-    src="./Hooman.png" 
+    src="https://raw.githubusercontent.com/itzhoman/itzhoman/main/Hooman.png" 
     alt="Hooman's Developer Card" 
     width="800" 
     style="max-width: 90%; border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);"
@@ -46,31 +46,31 @@
     <tr>
       <td>
         <a href="https://game-arena-cb1b.vercel.app/" target="_blank">
-          <img src="./Game Arena.png" alt="Game Arena" style="height: 250px; width: 500px;" />
+          <img src="https://raw.githubusercontent.com/itzhoman/itzhoman/main/Game%20Arena.png" alt="Game Arena" style="height: 250px; width: 500px;" />
         </a>
       </td>
       <td>
         <a href="https://step-wise-beta.vercel.app/" target="_blank">
-          <img src="./Step Wise.png" alt="Step Wise" style="height: 250px; width: 500px;" />
+          <img src="https://raw.githubusercontent.com/itzhoman/itzhoman/main/Step%20Wise.png" alt="Step Wise" style="height: 250px; width: 500px;" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://velvet-shop.vercel.app/" target="_blank">
-          <img src="./Velvet.png" alt="Velvet Shop" style="height: 250px; width: 500px;" />
+          <img src="https://raw.githubusercontent.com/itzhoman/itzhoman/main/Velvet.png" alt="Velvet Shop" style="height: 250px; width: 500px;" />
         </a>
       </td>
       <td>
         <a href="https://code-lens-seven.vercel.app/" target="_blank">
-          <img src="./Code Lens.png" alt="Code Lens" style="height: 250px; width: 500px;" />
+          <img src="https://raw.githubusercontent.com/itzhoman/itzhoman/main/Code%20Lens.png" alt="Code Lens" style="height: 250px; width: 500px;" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://trading-sight-x5wx.vercel.app/" target="_blank">
-          <img src="./Trading sight.png" alt="Trading sight project" style="height: 250px; width: 500px;" />
+          <img src="https://raw.githubusercontent.com/itzhoman/itzhoman/main/Trading%20sight.png" alt="Trading sight project" style="height: 250px; width: 500px;" />
         </a>
       </td>
     </tr>
@@ -117,95 +117,26 @@
 
 <br/>
 
-<h3 align="center">📚 Currently Advancing</h3>
-
-<div align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="48" title="GraphQL"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="Javascript"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="48" title="PHP"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="48" title="Laravel"/>
-</div>
-
-<br/>
-
-<h3 align="center">🎯 Plan to Learn</h3>
-
-<div align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48" title="ThreeJs"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" width="48" title="Electron"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webflow.svg" width="48" title="Webflow"/>
-</div>
-
-<br/>
-
-<h2 align="center">📊 GitHub Contributions</h2>
+<h3 align="center">📊 GitHub Stats & Languages</h3>
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=itzhoman&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20GitHub%20Contributions"
-    alt="GitHub Contribution Graph"
-    width="700"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=itzhoman&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Languages" />
 </p>
 
-<h2 align="center">⚡ GitHub Stats</h2>
-
+<h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=itzhoman&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-    width="400"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=itzhoman&theme=darkhub&margin-w=15&margin-h=15" width="700" alt="GitHub Trophies" />
 </p>
 
-<h2 align="center">💡 Most Used Languages</h2>
-
+<h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    width="400px"
-  />
+  <img src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" width="700" alt="Contribution Snake" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2);" />
 </p>
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
+<h3 align="center">🌐 Official Links</h3>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" style="max-width: 100%; box-shadow: 0 0 20px rgba(0,0,0,0.2); border-radius: 10px;" />
-  </picture>
+  <a href="https://www.linkedin.com/in/itzhoman" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="60" style="margin: 0 30px;" /></a>
+  <a href="https://github.com/itzhoman" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" style="margin: 0 30px;" /></a>
+  <a href="mailto:dev.hajimohamadi@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="60" style="margin: 0 30px;" /></a>
 </p>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=itzhoman&theme=darkhub&margin-w=15&margin-h=15"
-    alt="GitHub Trophies"
-    style="max-width: 90%; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" 
-  />
-</p>
-
-<h2 align="center">🌐 Official Links</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/itzhoman" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="60" style="margin: 0 30px;" />
-  </a>
-  <a href="https://github.com/itzhoman" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60" style="margin: 0 30px;" />
-  </a>
-  <a href="mailto:dev.hajimohamadi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Email" width="60" style="margin: 0 30px;" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
-</div>
