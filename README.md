@@ -82,7 +82,6 @@
 <h3 align="center">🛠️ Skills & Tools</h3>
 
 <div align="center">
-  <!-- Skill Icons -->
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48" title="Redux"/>
@@ -98,39 +97,19 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" width="48" title="Styled Components"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48" title="Adobe XD"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48" title="Vite"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="Netlify"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="48" title="Vercel"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="VSCode"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="Stack Overflow"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="48" title="PHP"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="48" title="Laravel"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PhpStorm-Dark.svg" width="48" title="PhpStorm"/>
 </div>
 
 <br/>
 
-<h3 align="center">📊 GitHub Stats & Languages</h3>
+<h3 align="center">📊 GitHub Stats & Contribution</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzhoman&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Languages" />
+  <!-- Streak Stats: پایدار -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzhoman&theme=tokyonight" width="700" alt="GitHub Streak Stats" />
 </p>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itzhoman&theme=darkhub&margin-w=15&margin-h=15" width="700" alt="GitHub Trophies" />
-</p>
-
-<h3 align="center">🐍 Contribution Snake</h3>
-<p align="center">
+  <!-- Contribution Snake: پایدار -->
   <img src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" width="700" alt="Contribution Snake" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2);" />
 </p>
 
