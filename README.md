@@ -1,1 +1,154 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFAA&background=00000000&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B+I'm+Hooman+Hajimohamadi;Typescript+%2F+Laravel+Specialist;Passionate+Web+Developer+%F0%9F%9A%80" alt="Typing SVG" style="max-width: 100%;" /> </div> <br> <br> <h2 align="center">🧠 About Me</h2> <p align="center"> <img src="./Hooman.png" alt="Hooman's Developer Card" width="800" style="max-width: 90%; border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);" /> </p> <h2 align="center u">📖 Autobiography</h2> <p align="center" style="font-size: 18px; line-height: 1.6;"> <b> Hi, I'm <span style="color: #4CAF50;">Hooman Hajimohamadi</span> 👋 — a passionate Full-stack Developer 🧑‍💻 based in Tehran, Iran 🇮🇷.<br><br> I specialize in bringing ideas 💡 to life with <b>JavaScript</b>, <b>Laravel</b>, and a little bit of <b>CSS magic</b> ✨ (big <span style="color: #38BDF8;">TailwindCSS</span> fan here 🌀).<br><br> I love working with startups 🫰, solving real-world problems, and pushing the boundaries 🚀.<br><br> Whether it’s crafting clean UIs, adding smooth animations, or collaborating on exciting projects — I'm all in! </b> </p> <p align="center"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" style="border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.3); margin-top: 20px;" /> </p> <div align="center"> <h3>🚀 Recent Projects</h3> <table> <tr> <td> <a href="https://game-arena-cb1b.vercel.app/" target="_blank"> <img src="./Game Arena.png" alt="Game Arena" style="height: 250px; width: 500px;" /> </a> </td> <td> <a href="https://step-wise-beta.vercel.app/" target="_blank"> <img src="./Step Wise.png" alt="Step Wise" style="height: 250px; width: 500px;" /> </a> </td> </tr> <tr> <td> <a href="https://velvet-shop.vercel.app/" target="_blank"> <img src="./Velvet.png" alt="Velvet Shop" style="height: 250px; width: 500px;" /> </a> </td> <td> <a href="https://code-lens-seven.vercel.app/" target="_blank"> <img src="./Code Lens.png" alt="Code Lens" style="height: 250px; width: 500px;" /> </a> </td> </tr> <tr> <td> <a href="https://trading-sight-x5wx.vercel.app/" target="_blank"> <img src="./Trading sight.png" alt="Trading sight project" style="height: 250px; width: 500px;" /> </a> </td> </tr> </table> </div> <br/> <h3 align="center">🛠️ Skills & Tools</h3> <div align="center"> <!-- Skill Icons --> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48" title="Redux"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="Javascript"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailwindCSS"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="48" title="GraphQL"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="48" title="MUI"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="Sass"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48" title="Bootstrap"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" width="48" title="Styled Components"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48" title="Adobe XD"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48" title="Vite"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="Netlify"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="48" title="Vercel"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="VSCode"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="Stack Overflow"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="48" title="PHP"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="48" title="Laravel"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PhpStorm-Dark.svg" width="48" title="PhpStorm"/> </div> <br/> <h3 align="center">📚 Currently Advancing</h3> <div align="center"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="48" title="GraphQL"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="Javascript"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="48" title="PHP"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="48" title="Laravel"/> </div> <br/> <h3 align="center">🎯 Plan to Learn</h3> <div align="center"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48" title="ThreeJs"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" width="48" title="Electron"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webflow.svg" width="48" title="Webflow"/> </div> <h2 align="center">📊 GitHub Contributions</h2> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzhoman&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20GitHub%20Contributions" alt="GitHub Contribution Graph" width="700" /> </p> <h2 align="center">⚡ GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itzhoman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" width="400" /> </p> <h2 align="center">💡 Most Used Languages</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="400px" /> </p> <h2 align="center"> My Contribution Snake 🐍</h2> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" /> <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" style="max-width: 100%; box-shadow: 0 0 20px rgba(0,0,0,0.2); border-radius: 10px;" /> </picture> </p> <h2 align="center">🏆 GitHub Trophies</h2> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=itzhoman&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width: 90%; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" /> </p> <h2 align="center"> Official Links 🌐 </h2> <p align="center"> <!-- LinkedIn --> <a href="https://www.linkedin.com/in/itzhoman" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="LinkedIn" width="60" style="margin: 0 30px;" /> </a> <!-- GitHub --> <a href="https://github.com/itzhoman" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60" style="margin: 0 30px;" /> </a> <!-- Gmail --> <a href="mailto:dev.hajimohamadi@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="Email" width="60" style="margin: 0 30px;" /> </a> </p> <div align="center"> <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"> </div>
+<div align="center">
+  
+  <!-- Title -->
+  <h1 style="color:#00ff99;">
+    Hi 👋 I'm Hooman Hajimohamadi
+  </h1>
+
+  <!-- Typing SVG -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F0A8&center=true&vCenter=true&width=600&lines=ReactJS+%26+Next.js+Developer;Full-stack+Developer+%7C+Laravel+%26+Node.js;Lifelong+Learner+%26+Problem+Solver"
+    alt="Typing SVG"
+  />
+
+</div>
+
+---
+
+### 🧠 About Me
+
+const Hooman = {
+  name: "Hooman Hajimohamadi",
+  title: "ReactJS Developer",
+  pronouns: ["He", "Him"],
+  about:
+    "Passionate about learning and solving problems like a programmer.",
+  skills: ["Good listener", "Lifelong learner", "Team player"],
+
+  techStack: {
+    frontend: {
+      tools: ["ReactJS", "NextJS", "ReduxJS"],
+      languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
+      deployment: ["Netlify", "Vercel"],
+      design: ["Figma", "Adobe XD", "Canva"],
+      cssTools: ["Sass", "TailwindCSS", "Material UI", "Styled-components"],
+      packages: ["React Router", "Framer Motion", "Swiper.js"],
+    },
+    backend: {
+      languages: ["PHP"],
+      tools: ["Laravel"],
+    },
+    noSQL: ["MongoDB", "Firebase"],
+  },
+
+  interests: ["Web3", "3D animations", "Forex", "Playing video games"],
+  hobbies: ["Listening to music", "Podcasts", "Playing piano"],
+  ide: "VSCode",
+  os: "Windows 11",
+  currentFocus: "Frontend & React",
+  motto: "Talk is cheap, show me the code.",
+  funFact: "Bugs & Errors are my best friends.",
+};
+📘 Autobiography
+Hi, I'm Hooman Hajimohamadi — a passionate Full‑stack Developer based in Tehran, Iran.
+I specialize in bringing ideas 💡 to life with JavaScript, React, Next.js, Laravel and a bit of CSS magic ✨ (big TailwindCSS fan here).
+I love working with startups 🏁, solving real‑world problems, and pushing the boundaries 🚀.
+Whether it's crafting clean UIs, adding smooth animations, or collaborating on exciting projects — I'm all in!
+🛠 Skills & Tools
+<p align="center">
+<img
+src="https://skillicons.dev/icons?i=react,next,js,ts,redux,html,css,sass,tailwind,materialui,styledcomponents,git,github,nodejs,express,mongodb,firebase,php,laravel,figma,xd,ps,vscode&perline=12"
+alt="Tech Stack"
+/>
+</p>
+🚀 Currently Advancing
+<p align="center">
+<img
+src="https://skillicons.dev/icons?i=react,next,js,ts,php,laravel&perline=6"
+alt="Currently Learning"
+/>
+</p>
+🎯 Plan to Learn
+<p align="center">
+<img
+src="https://skillicons.dev/icons?i=nodejs,express,graphql,threejs,wasm&perline=5"
+alt="Plan to Learn"
+/>
+</p>
+📂 Recent Projects
+> Replace the image links below with your own project thumbnails or dribbble/behance shots.
+<p align="center">
+<img src="https://via.placeholder.com/350x220?text=Project+1" alt="Project 1" />
+<img src="https://via.placeholder.com/350x220?text=Project+2" alt="Project 2" />
+</p>
+<p align="center">
+<img src="https://via.placeholder.com/350x220?text=Project+3" alt="Project 3" />
+<img src="https://via.placeholder.com/350x220?text=Project+4" alt="Project 4" />
+</p>
+<p align="center">
+<img src="https://via.placeholder.com/730x220?text=Project+5" alt="Project 5" />
+</p>
+📈 GitHub Contributions
+<p align="center">
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=itzhoman&theme=react-dark&area=true&hide_border=true"
+alt="Hooman's GitHub Activity Graph"
+/>
+</p>
+⚡ GitHub Stats
+<div align="center">
+<img
+src="https://github-readme-stats.vercel.app/api?username=itzhoman&show_icons=true&theme=radical&hide_border=true"
+alt="Hooman's GitHub Stats"
+height="165"
+/>
+<img
+src="https://streak-stats.demolab.com?user=itzhoman&theme=radical&hide_border=true"
+alt="Hooman's GitHub Streak"
+height="165"
+/>
+</div>
+📊 Most Used Languages
+<p align="center">
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=radical&hide_border=true"
+alt="Top Languages"
+/>
+</p>
+🐍 My Contribution Snake
+> برای فعال شدن این قسمت باید GitHub Action مربوط به snake رو روی ریپوی پروفایل‌ت ستاپ کنی.
+> بعد از ستاپ، آدرس زیر رو با username خودت تنظیم کن یا همون نگه دار اگر قبلاً راه‌اندازی‌اش کرده‌ای.
+<p align="center">
+<img
+src="https://github.com/itzhoman/itzhoman/raw/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+/>
+</p>
+🏆 GitHub Trophies
+<p align="center">
+<img
+src="https://github-profile-trophy.vercel.app/?username=itzhoman&theme=radical&no-frame=true&no-bg=true&margin-w=8"
+alt="GitHub Trophies"
+/>
+</p>
+🌐 Official Links
+<p align="center">
+<a href="https://www.linkedin.com/in/hooman-hajimohamadi" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/itzhoman" target="blank">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:hoomanhajimohamadi@gmail.com" target="blank">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
+</p>
+<p align="center">
+<img
+src="https://raw.githubusercontent.com/akshaykhale1992/akshaykhale1992/main/assets/coding-boy.gif"
+alt="Coding Illustration"
+width="480"
+/>
+</p>
