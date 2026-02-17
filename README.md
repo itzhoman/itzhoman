@@ -126,11 +126,7 @@
 <h2 align="center">⚡ GitHub Stats</h2>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=itzhoman&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats"
-    alt="GitHub Stats"
-    height="165"
-  />
+
   &nbsp;&nbsp;
   <img
     src="https://streak-stats.demolab.com?user=itzhoman&theme=radical&hide_border=true"
@@ -140,7 +136,6 @@
 </div>
 
 <h2 align="center">💡 Most Used Languages</h2>
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=radical&hide_border=true&langs_count=8"
@@ -152,15 +147,8 @@
  <h2 align="center"> My Contribution Snake 🐍</h2> 
  <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" /> <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" style="max-width: 100%; box-shadow: 0 0 20px rgba(0,0,0,0.2); border-radius: 10px;" /> </picture> </p>
-<h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=itzhoman&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=15"
-    alt="GitHub Trophies"
-    style="max-width: 90%; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
-  />
-</p>
+
 
 <h2 align="center">Official Links 🌐</h2>
 
