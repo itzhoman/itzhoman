@@ -75,6 +75,13 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://elnan.menuroyal.ir/" target="_blank">
+          <img src="./Elnan.png" alt="Elnan Sirjan Menu Royal" style="height: 250px; width: 500px;" />
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 
