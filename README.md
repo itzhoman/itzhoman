@@ -142,11 +142,10 @@
 
 <h2 align="center">💡 Most Used Languages</h2>
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=radical&hide_border=true&langs_count=8"
-    alt="Top Languages"
-    width="400"
-  />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=30"
+  alt="Top Languages"
+/>
 
 </p>
 
