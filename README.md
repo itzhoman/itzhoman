@@ -147,9 +147,6 @@
     alt="Top Languages"
     width="400"
   />
-  
-![ ](https://raw.githubusercontent.com/itzhoman/github-stats-transparent/refs/heads/output/generated/overview.svg)
-![ ](https://raw.githubusercontent.com/itzhoman/github-stats-transparent/refs/heads/output/generated/languages.svg)
 
 </p>
 
@@ -175,6 +172,4 @@
 
 <div align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Footer Animation" />
-</div> قسمت بیشترین زبان های استفاده شده منو اینجور کن 
-![ ](https://raw.githubusercontent.com/AndrewDongminYoo/github-stats-transparent/refs/heads/output/generated/overview.svg)
-![ ](https://raw.githubusercontent.com/AndrewDongminYoo/github-stats-transparent/refs/heads/output/generated/languages.svg)
+</div>
