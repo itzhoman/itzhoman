@@ -142,7 +142,7 @@
 
 <h2 align="center">💡 Most Used Languages</h2>
 <p align="center">
-https://raw.githubusercontent.com/itzhoman/itzhoman/main/profile/top-langs.svg
+![Top Languages](https://raw.githubusercontent.com/itzhoman/itzhoman/main/profile/top-langs.svg)
 </p>
 
  <h2 align="center"> My Contribution Snake 🐍</h2> 
