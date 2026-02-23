@@ -142,11 +142,7 @@
 
 <h2 align="center">💡 Most Used Languages</h2>
 <p align="center">
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=30"
-  alt="Top Languages"
-/>
-
+https://raw.githubusercontent.com/itzhoman/itzhoman/main/profile/top-langs.svg
 </p>
 
  <h2 align="center"> My Contribution Snake 🐍</h2> 
