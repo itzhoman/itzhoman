@@ -141,10 +141,9 @@
 </div>
 
 <h2 align="center">💡 Most Used Languages</h2>
+
 <p align="center">
-  <picture>
-![Top Languages](https://raw.githubusercontent.com/itzhoman/itzhoman/main/profile/top-langs.svg)
-  </picture>
+  <img src="https://raw.githubusercontent.com/itzhoman/itzhoman/main/profile/top-langs.svg" alt="Top Languages" />
 </p>
 
  <h2 align="center"> My Contribution Snake 🐍</h2> 
