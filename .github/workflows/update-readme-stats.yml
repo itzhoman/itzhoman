@@ -1,8 +1,7 @@
 name: Update README Stats
-
 on:
   schedule:
-    - cron: "0 */6 * * *" 
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,7 +17,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=itzhoman&layout=compact&theme=radical&hide_border=true&langs_count=8
+          options: username=itzhoman&layout=compact&theme=radical&hide_border=true&langs_count=8&include_langs=php,javascript,typescript,html,css
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
