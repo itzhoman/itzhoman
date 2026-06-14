@@ -1,118 +1,188 @@
 <div align="center">
+ 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,45:2563eb,100:14b8a6&text=Hooman%20Hajimohamadi&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js%20Enthusiast&descAlignY=58&animation=fadeIn" alt="Hooman Hajimohamadi banner" width="100%" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFAA&background=00000000&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B+I'm+Hooman+Hajimohamadi;Typescript+%2F+Php+Specialist;Passionate+Web+Developer+%F0%9F%9A%80"
+    alt="Typing SVG"
+    style="max-width: 100%;"   
+  /> 
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=I+build+fast%2C+polished%2C+human-friendly+interfaces.;React%2C+Next.js%2C+TypeScript%2C+Laravel%2C+TailwindCSS.;Turning+startup+ideas+into+clean+digital+products." alt="Typing intro" />
-</a>
 
-<p>
-  <a href="https://www.linkedin.com/in/itzhoman"><img src="https://img.shields.io/badge/LinkedIn-itzhoman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/itzhoman"><img src="https://img.shields.io/badge/GitHub-itzhoman-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.youtube.com/@codelabb"><img src="https://img.shields.io/badge/YouTube-CodeLabb-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://orcid.org/0009-0008-8807-1482"><img src="https://img.shields.io/badge/ORCID-0009--0008--8807--1482-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+
+  
+</div>    
+
+
+<br><br>
+
+<h2 align="center">🧠 About Me</h2>
+
+<p align="center">
+  <img
+    src="./Hooman.png"
+    alt="Hooman's Developer Card"
+    width="800"
+    style="max-width: 90%; border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);"
+  />
 </p>
 
+<h2 align="center">📖 Autobiography</h2>
+
+<p align="center" style="font-size: 18px; line-height: 1.6;">
+  <b>
+    Hi, I'm <span style="color: #4CAF50;">Hooman Hajimohamadi</span> 👋 — a passionate Full-stack Developer 🧑‍💻 based in Tehran, Iran 🇮🇷.<br><br>
+    I specialize in bringing ideas 💡 to life with <b>JavaScript</b>, <b>Laravel</b>, and a little bit of <b>CSS magic</b> ✨
+    (big <span style="color: #38BDF8;">TailwindCSS</span> fan here 🌀).<br><br>
+    I love working with startups 🫰, solving real-world problems, and pushing the boundaries 🚀.<br><br>
+    Whether it’s crafting clean UIs, adding smooth animations, or collaborating on exciting projects — I'm all in!
+  </b>
+</p>
+
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+    alt="Coder GIF"
+    width="400"
+    style="border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.3); margin-top: 20px;"
+  />
+</p>
+
+<div align="center">
+  <h3>🚀 Recent Projects</h3>
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://game-arena-cb1b.vercel.app/" target="_blank">
+          <img src="./Game Arena.png" alt="Game Arena" style="height: 250px; width: 500px;" />
+        </a>
+      </td>
+      <td>
+        <a href="https://step-wise-beta.vercel.app/" target="_blank">
+          <img src="./Step Wise.png" alt="Step Wise" style="height: 250px; width: 500px;" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://velvet-shop.vercel.app/" target="_blank">
+          <img src="./Velvet.png" alt="Velvet Shop" style="height: 250px; width: 500px;" />
+        </a>
+      </td>
+      <td>
+        <a href="https://code-lens-seven.vercel.app/" target="_blank">
+          <img src="./Code Lens.png" alt="Code Lens" style="height: 250px; width: 500px;" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://trading-sight-x5wx.vercel.app/" target="_blank">
+          <img src="./Trading sight.png" alt="Trading sight project" style="height: 250px; width: 500px;" />
+        </a>
+      </td>
+      <td>
+        <a href="https://elnan.menuroyal.ir/" target="_blank">
+          <img src="./ElNan.png" alt="El Nan Sirjan Menu Royal" style="height: 250px; width: 500px;" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://shahinvest.ir/" target="_blank">
+          <img src="./shahin.png" alt="shahin vest" style="height: 250px; width: 500px;" />
+        </a>
+      </td>
+      </tr>  
+  </table>
 </div>
 
----
+<br/>
 
-## About Me
+<h3 align="center">🛠️ Skills & Tools</h3>
 
-Hi, I'm Hooman Hajimohamadi, a Tehran-based full-stack developer focused on building sharp, responsive, and production-ready web experiences.
+<div align="center">
+  <img
+    src="https://skillicons.dev/icons?i=react,next,js,ts,redux,html,css,sass,tailwind,materialui,styledcomponents,bootstrap,graphql,figma,xd,vite,netlify,vercel,git,github,mongodb,firebase,php,laravel,linux,vscode,postman&perline=12"
+    alt="Skills & Tools"
+  />
+</div>
 
-I like the part of development where design taste meets engineering discipline: clean UI systems, smooth interactions, readable code, and products that feel easy to trust. Most days I work around React, Next.js, TypeScript, Laravel, TailwindCSS, and the tiny details that make an interface feel finished.
+<br/>
 
-```ts
-const hooman = {
-  location: "Tehran, Iran",
-  role: "Frontend Developer",
-  currentStack: ["React", "Next.js", "TypeScript", "Laravel", "TailwindCSS"],
-  focus: ["pixel-perfect UI", "startup products", "open source", "performance"],
-  workingStyle: "ship polished interfaces without making the codebase harder to love",
-};
-```
+<h3 align="center">📚 Currently Advancing</h3>
 
-## Signature Work
+<div align="center">
+  <img
+    src="https://skillicons.dev/icons?i=react,next,js,ts,php,laravel,graphql&perline=7"
+    alt="Currently Advancing"
+  />
+</div>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>CodeLens</h3>
-      <p>A focused developer tool experience built around code clarity, inspection, and practical workflows.</p>
-      <p><a href="https://code-lens-seven.vercel.app">Live Preview</a> / <a href="https://github.com/itzhoman/CodeLens">Repository</a></p>
-    </td>
-    <td width="50%">
-      <h3>StepWise</h3>
-      <p>A guided product experience with careful interaction flow and clean visual structure.</p>
-      <p><a href="https://step-wise-beta.vercel.app">Live Preview</a> / <a href="https://github.com/itzhoman/StepWise">Repository</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>VelvetShop</h3>
-      <p>An ecommerce UI concept with product-forward presentation and smooth browsing patterns.</p>
-      <p><a href="https://velvet-shop.vercel.app">Live Preview</a> / <a href="https://github.com/itzhoman/VelvetShop">Repository</a></p>
-    </td>
-    <td width="50%">
-      <h3>Game Arena</h3>
-      <p>A playful web app project showing fast UI composition, state handling, and visual energy.</p>
-      <p><a href="https://game-arena-cb1b.vercel.app">Live Preview</a> / <a href="https://github.com/itzhoman/Game-Arena">Repository</a></p>
-    </td>
-  </tr>
-</table>
+<br/>
 
-## Toolbox
+<h3 align="center">🎯 Plan to Learn</h3>
+
+<div align="center">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,threejs,electron,webflow&perline=4"
+    alt="Plan to Learn"
+  />
+</div>
+
+<br/>
+
+<h2 align="center">📊 GitHub Contributions</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=itzhoman&theme=react-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Contributions"
+    alt="GitHub Contribution Graph"
+    width="700"
+  />
+</p>
+
+<h2 align="center">⚡ GitHub Stats</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,laravel,php,tailwind,html,css,sass,nodejs,express,mongodb,mysql,git,github,vscode,figma,vercel&perline=10" alt="Skills and tools" />
-
+  &nbsp;&nbsp;
+  <img
+    src="https://streak-stats.demolab.com?user=itzhoman&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+    height="165"
+  />
 </div>
 
-## Current Focus
+<h2 align="center">💡 Most Used Languages</h2>
 
-| Area | What I am sharpening |
-| --- | --- |
-| Frontend architecture | Reusable components, scalable folder structure, cleaner state boundaries |
-| Product polish | Micro-interactions, loading states, accessibility, responsive details |
-| Full-stack delivery | Laravel APIs, authentication flows, database-backed product features |
-| Open source | Useful UI experiments, learning in public, and practical examples |
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
 
-## Build Philosophy
+ <h2 align="center"> My Contribution Snake 🐍</h2> 
+ <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" /> <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" style="max-width: 100%; box-shadow: 0 0 20px rgba(0,0,0,0.2); border-radius: 10px;" /> </picture> </p>
 
-> I care about interfaces that look intentional, move naturally, and stay maintainable after the first exciting release.
 
-I enjoy working with startups and product-minded teams because the best work happens when the interface is not just beautiful, but useful, fast, and easy to evolve.
 
-## GitHub Activity
+<h2 align="center">Official Links 🌐</h2>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=itzhoman&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=itzhoman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top languages" />
-
-</div>
-
-## Contribution Flow
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/itzhoman/itzhoman/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/itzhoman" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="60" style="margin: 0 30px;" />
+  </a>
+  <a href="https://github.com/itzhoman" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" style="margin: 0 30px;" />
+  </a>
+  <a href="mailto:dev.hajimohamadi@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="60" style="margin: 0 30px;" />
+  </a>
+</p>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14b8a6,55:2563eb,100:0f172a" alt="Footer wave" width="100%" />
-
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Footer Animation" />
 </div>
