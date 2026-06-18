@@ -51,6 +51,18 @@
   <h3>🚀 Recent Projects</h3>
 
   <table>
+     <tr>
+      <td>
+        <a href="http://http://hoomanhajimohamadi.ir/#" target="_blank">
+          <img src="./Hooman.png" alt="Hooman Hajimohamadi" style="height: 250px; width: 500px;" />
+        </a>
+      </td>
+      <td>
+        <a href="http://appointmentproject.ir/landing" target="_blank">
+          <img src="./Appointment.png" alt="Appointment Booling" style="height: 250px; width: 500px;" />
+        </a>
+      </td>
+    </tr>
     <tr>
       <td>
         <a href="https://game-arena-cb1b.vercel.app/" target="_blank">
