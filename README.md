@@ -15,7 +15,7 @@
 
 <br><br>
 
-<h2 align="center">🧠 About Me</h2>
+<!-- <h2 align="center">🧠 About Me</h2>
 
 <p align="center">
   <img
@@ -24,7 +24,7 @@
     width="800"
     style="max-width: 90%; border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);"
   />
-</p>
+</p> -->
 
 <h2 align="center">📖 Autobiography</h2>
 
