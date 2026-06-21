@@ -8,10 +8,6 @@
     style="max-width: 100%;"   
   /> 
 
-
- 
-
-  
 </div>    
 
 
