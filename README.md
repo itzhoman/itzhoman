@@ -51,7 +51,7 @@
   <table>
      <tr>
       <td>
-        <a href="http://http://hoomanhajimohamadi.ir/#" target="_blank">
+        <a href="http://hoomanhajimohamadi.ir/#" target="_blank">
           <img src="./Hooman.png" alt="Hooman Hajimohamadi" style="height: 250px; width: 500px;" />
         </a>
       </td>
