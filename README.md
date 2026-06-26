@@ -3,7 +3,7 @@
 
 
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFAA&background=00000000&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B+I'm+Hooman+Hajimohamadi;Typescript+%2F+Php+Specialist;Passionate+Web+Developer+%F0%9F%9A%80"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFAA&background=00000000&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B+I'm+Hooman+Hajimohamadi;Typescript+%2F+Javascript+Specialist;Passionate+Web+Developer+%F0%9F%9A%80"
     alt="Typing SVG"
     style="max-width: 100%;"   
   /> 
@@ -29,8 +29,8 @@
 
 <p align="center" style="font-size: 18px; line-height: 1.6;">
   <b>
-    Hi, I'm <span style="color: #4CAF50;">Hooman Hajimohamadi</span> 👋 — a passionate Full-stack Developer 🧑‍💻 based in Tehran, Iran 🇮🇷.<br><br>
-    I specialize in bringing ideas 💡 to life with <b>JavaScript</b>, <b>Laravel</b>, and a little bit of <b>CSS magic</b> ✨
+    Hi, I'm <span style="color: #4CAF50;">Hooman Hajimohamadi</span> 👋 — a passionate Front End Developer 🧑‍💻 based in Tehran, Iran 🇮🇷.<br><br>
+    I specialize in bringing ideas 💡 to life with <b>JavaScript</b>, and a little bit of <b>CSS magic</b> ✨
     (big <span style="color: #38BDF8;">TailwindCSS</span> fan here 🌀).<br><br>
     I love working with startups 🫰, solving real-world problems, and pushing the boundaries 🚀.<br><br>
     Whether it’s crafting clean UIs, adding smooth animations, or collaborating on exciting projects — I'm all in!
