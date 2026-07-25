@@ -170,7 +170,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    src="./profile/top-langs.svg"
     alt="Top Languages"
   />
 </p>
