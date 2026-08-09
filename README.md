@@ -8,14 +8,6 @@
     style="max-width: 100%;"   
   /> 
 
-
-
-
-
-
-
-
-
 </div>    
 
 <!-- <br><br> -->
@@ -61,7 +53,7 @@
   <table>
      <tr>
       <td>
-        <a href="http://hoomanhajimohamadi.ir/#" target="_blank">
+        <a href="https://portfolio-itzhomans-projects.vercel.app/" target="_blank">
           <img src="./Hooman.png" alt="Hooman Hajimohamadi" style="height: 250px; width: 500px;" />
         </a>
       </td>
