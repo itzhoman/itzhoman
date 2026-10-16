@@ -101,6 +101,17 @@
           <img src="./shahin.png" alt="shahin vest" style="height: 250px; width: 500px;" />
         </a>
       </td>
+      <td align="center">
+        <a href="https://github.com/itzhoman/rafiq-baz" target="_blank">
+          <img src="https://raw.githubusercontent.com/itzhoman/rafiq-baz/main/docs/screenshots/finding-desktop-v3.jpg" alt="Rafiq Baz — Angular and Python dating app" width="500" />
+        </a>
+        <br />
+        <strong>Rafiq Baz · رفیق باز</strong>
+        <br />
+        <sub>Angular · Python / FastAPI · Android &amp; iOS</sub>
+        <br />
+        <a href="https://github.com/itzhoman/rafiq-baz">View project &amp; source ↗</a>
+      </td>
       </tr>  
   </table>
 </div>
@@ -194,3 +205,4 @@
 <div align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Footer Animation" />
 </div>
+
