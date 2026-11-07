@@ -47,60 +47,67 @@
   <h3>🚀 Recent Projects</h3>
 
   <table>
-     <tr>
+    <tr>
+      <td>
+        <a href="https://b2b-coral-azure.vercel.app/" target="_blank">
+          <img src="./B2B-Coral.jpg" alt="B2B Coral — Persian B2B sourcing prototype" width="500" />
+        </a>
+      </td>
       <td>
         <a href="https://portfolio-itzhomans-projects.vercel.app/" target="_blank">
           <img src="./Hooman.png" alt="Hooman Hajimohamadi" style="height: 250px; width: 500px;" />
         </a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="http://appointmentproject.ir/landing" target="_blank">
           <img src="./Appointment.png" alt="Appointment Booling" style="height: 250px; width: 500px;" />
         </a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://game-arena-cb1b.vercel.app/" target="_blank">
           <img src="./Game Arena.png" alt="Game Arena" style="height: 250px; width: 500px;" />
         </a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="https://step-wise-beta.vercel.app/" target="_blank">
           <img src="./Step Wise.png" alt="Step Wise" style="height: 250px; width: 500px;" />
         </a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://velvet-shop.vercel.app/" target="_blank">
           <img src="./Velvet.png" alt="Velvet Shop" style="height: 250px; width: 500px;" />
         </a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="https://code-lens-seven.vercel.app/" target="_blank">
           <img src="./Code Lens.png" alt="Code Lens" style="height: 250px; width: 500px;" />
         </a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://trading-sight-x5wx.vercel.app/" target="_blank">
           <img src="./Trading sight.png" alt="Trading sight project" style="height: 250px; width: 500px;" />
         </a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="https://elnan.menuroyal.ir/" target="_blank">
           <img src="./ElNan.png" alt="El Nan Sirjan Menu Royal" style="height: 250px; width: 500px;" />
         </a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://shahinvest.ir/" target="_blank">
           <img src="./shahin.png" alt="shahin vest" style="height: 250px; width: 500px;" />
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://github.com/itzhoman/rafiq-baz" target="_blank">
           <img src="https://raw.githubusercontent.com/itzhoman/rafiq-baz/main/docs/screenshots/finding-desktop-v3.jpg" alt="Rafiq Baz — Angular and Python dating app" width="500" />
@@ -112,7 +119,7 @@
         <br />
         <a href="https://github.com/itzhoman/rafiq-baz">View project &amp; source ↗</a>
       </td>
-      </tr>  
+    </tr>
   </table>
 </div>
 
