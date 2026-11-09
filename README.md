@@ -119,6 +119,17 @@
         <br />
         <a href="https://github.com/itzhoman/rafiq-baz">View project &amp; source ↗</a>
       </td>
+      <td align="center" width="500">
+        <strong>Kenzel · کنزل</strong>
+        <br />
+        <sub>Persian RTL eveningwear storefront</sub>
+        <br />
+        <sub>Interactive 3D runway and wardrobe · Laravel product catalog</sub>
+        <br />
+        <sub>Next.js · TypeScript · Tailwind CSS · GSAP · Three.js</sub>
+        <br />
+        <a href="https://github.com/itzhoman/kenzel">GitHub repository (private) ↗</a>
+      </td>
     </tr>
   </table>
 </div>
